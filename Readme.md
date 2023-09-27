@@ -6,7 +6,7 @@ This Linux kernel module enables blinking of three LEDs connected to GPIO pins o
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/led-blink-driver.git
+    git clone https://github.com/alichlaifa/blinkLed_driver_kthread.git
     ```
 2. Navigate to the module directory:
     ```bash
