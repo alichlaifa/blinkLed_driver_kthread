@@ -10,7 +10,7 @@ This Linux kernel module enables blinking of three LEDs connected to GPIO pins o
     ```
 2. Navigate to the module directory:
     ```bash
-    cd led-blink-driver
+    cd blinkLed_driver_kthread
     ```
 3. Build the module:
     ```bash
